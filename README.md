@@ -1,2 +1,3 @@
 # gavel-docs
 
+[Architecture](Architecture)
